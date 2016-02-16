@@ -1,7 +1,7 @@
 # Ghostly-boots
 A simple, customisable [Ghost](https://ghost.org/) theme based on [Bootstrap] (http://getbootstrap.com/).
 
- [Demo](https://simplyml.com/)
+ [Demo](http://mannumalhotra.com/)
 
 ## Features
 
