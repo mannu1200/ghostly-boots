@@ -140,6 +140,7 @@ figure {
 .blog-logo-img {
    margin: 0 auto;
    padding: 0.5em;
+   max-height: 100px;
 }
 
 /*
@@ -159,6 +160,8 @@ figure {
 }
 .blog-image {
    padding-bottom: 1em;
+   max-height: 400px;
+   margin: 0 auto;
 }
 .share {
    text-align: center;
