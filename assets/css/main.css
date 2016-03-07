@@ -323,6 +323,16 @@ figure {
 .icon-menu:before {
    content: "\f609";
 }
+section.post-content img {
+    width: 400px;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+#layout {
+    max-width: 870px;
+    margin: 0 auto;
+}
 
 /*
     IMPORTANT: When making any changes to the icon font, be sure to increment
